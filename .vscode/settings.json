@@ -1,0 +1,44 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "udemy-pg",
+      "username": "root",
+      "password": "secret",
+      "database": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "simple-bank",
+      "database": "simple_bank",
+      "username": "root",
+      "password": "secret"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "udemy-master-class",
+      "database": "simple_bank",
+      "username": "root",
+      "password": "secret"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "udemy-golang",
+      "database": "simple_bank",
+      "username": "root",
+      "password": "secret"
+    }
+  ]
+}
