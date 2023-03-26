@@ -49,6 +49,16 @@
       "database": "simple_bank",
       "username": "root",
       "password": "secret"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "ss",
+      "database": "simple_bank",
+      "username": "root",
+      "password": "secret"
     }
   ]
 }
